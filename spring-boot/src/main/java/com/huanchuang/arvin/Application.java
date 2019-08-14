@@ -40,7 +40,7 @@ public class Application {
 
 	/**
 	 * servlet访问的准则是，有精确的匹配精确的，并不是符合条件的都会执行 有个问题：
-	 * 
+	 * 32323
 	 * DispatcherServlet 默认拦截“/”，MyServlet 拦截“/xs/*”，MyServlet2
 	 * 拦截“/xs/myservlet”，那么在我们访问 http://localhost:8080/xs/myservlet
 	 * 的时候系统会怎么处理呢？如果访问 http://localhost:8080/xs/abc
